@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game not working","/","homepage",1
+"fix","k1 game app crash","/guides/app-crash-fix/","fix",1
+"fix","k1 game not opening","/guides/not-opening/","fix",1
+"fix","k1 game login error","/guides/login-error-fix/","fix",1
+"fix","k1 game otp problem","/guides/otp-problem-solution/","fix",1
+"fix","k1 game network error","/guides/network-error/","fix",2
+"tutorial","clear cache k1 game","/guides/cache-clear-guide/","tutorial",2
+"fix","k1 game crashes after update","/guides/update-after-crash/","fix",2
+"tutorial","k1 game reinstall","/guides/reinstall-guide/","tutorial",2
+"support","k1 game support evidence","/guides/support-evidence/","support",3
+"device","k1 game storage problem","/guides/device-storage/","device",3
+"faq","k1 game fix faq","/guides/fix-faq/","faq",3
+"freshness","k1 game error log","/guides/weekly-error-log/","freshness",3
+hub,"App Crash","/app-crash/","hub",1
+hub,"Login Error","/login-error/","hub",2
+hub,"OTP Problem","/otp-problem/","hub",3
+hub,"Network Fix","/network-fix/","hub",4
