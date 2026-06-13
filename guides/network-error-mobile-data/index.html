@@ -26,6 +26,15 @@
     summary{font-weight:800;cursor:pointer}
     .register{display:inline-block;margin-top:12px;background:#dc2626;color:#fff!important;text-decoration:none;padding:14px 18px;border-radius:10px;font-weight:900}
     @media(max-width:760px){main{padding:24px 14px 88px}h1{font-size:30px}.lead{font-size:16px}.related ul{grid-template-columns:1fr}.register{position:sticky;bottom:12px;display:block;text-align:center}}
+  
+    .k1-evidence{background:#fff;border:1px solid #d9e2ec;border-radius:10px;padding:18px;margin:18px 0}
+    .k1-evidence-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:12px}
+    .k1-evidence figure{margin:0;background:#f8fafc;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden}
+    .k1-evidence img{display:block;width:100%;height:auto}
+    .k1-evidence figcaption{font-size:12px;line-height:1.45;color:#475569;padding:10px}
+    .k1-evidence .source-note{font-size:13px;color:#475569}
+    @media(max-width:760px){.k1-evidence-grid{grid-template-columns:1fr}.k1-evidence{padding:14px}}
+
   </style>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"K1 Game Network Error on Mobile Data","description":"K1 Game network error fix guide for Pakistan mobile data users, covering signal, DNS, cache, app version, and support evidence.","datePublished":"2026-06-13","dateModified":"2026-06-13","author":{"@type":"Organization","name":"K1 Fix Center"},"mainEntityOfPage":"http://k1bonuspk.com/guides/network-error-mobile-data/"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can mobile data cause K1 Game network errors?","acceptedAnswer":{"@type":"Answer","text":"Yes. Weak signal, provider routing, or temporary DNS issues can create network errors."}},{"@type":"Question","name":"Should I clear cache immediately?","acceptedAnswer":{"@type":"Answer","text":"Save the error details first, then clear cache if the issue appears device-specific."}},{"@type":"Question","name":"What should I tell support?","acceptedAnswer":{"@type":"Answer","text":"Share time, network type, device model, app version, and the exact screen where the error appeared."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"http://k1bonuspk.com/"},{"@type":"ListItem","position":2,"name":"Guides","item":"http://k1bonuspk.com/guides/"},{"@type":"ListItem","position":3,"name":"K1 Game Network Error on Mobile Data","item":"http://k1bonuspk.com/guides/network-error-mobile-data/"}]}]}</script>  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2JBXQKKS72"></script>
@@ -40,6 +49,19 @@
     <section class="panel"><h2>Do not reinstall first</h2><p>Network errors often come from weak signal, DNS, blocked cache, or temporary service issues. Reinstalling first can remove useful evidence.</p></section>
     <section class="panel"><h2>Mobile data checks</h2><p>Switch between mobile data and Wi-Fi, restart airplane mode, and test whether other pages load before blaming the app.</p></section>
     <section class="panel"><h2>Evidence for support</h2><p>Record the time, network provider, screenshot, and whether the error happens before or after login.</p></section>
+    
+    <section class="k1-evidence">
+      <h2>K1 public evidence used for this guide</h2>
+      <p><strong>Evidence angle:</strong> troubleshooting evidence.</p>
+      <p>The public mobile screenshots give a baseline for what K1-related pages can look like when loading correctly, which helps separate site availability from local network errors.</p>
+      <p class="source-note">For network issues, users still need their own time, device, carrier, and error-screen evidence.</p>
+      <div class="k1-evidence-grid">
+        <figure>
+        <img src="../../assets/k1-evidence/k1-game-login-download-mobile.png" alt="K1 Game public login and download guide mobile screenshot" width="390" height="844" loading="lazy" decoding="async">
+        <figcaption>Public K1 source: <a href="https://k1.game/download/k1-game-login/" rel="nofollow noopener">https://k1.game/download/k1-game-login/</a>. Captured 2026-06-13.</figcaption>
+      </figure>
+      </div>
+    </section>
     <section class="checklist">
       <h2>Mobile checklist</h2>
       <ol><li>Test another site on the same mobile data.</li><li>Toggle airplane mode once.</li><li>Clear cache only after saving the error.</li><li>Compare Wi-Fi and mobile data behavior.</li></ol>
