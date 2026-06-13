@@ -17,3 +17,4 @@ week,site,content_type,target_keyword,url,action
 8,"K1 Fix Center","refresh","k1 game not working","/","Review GSC impressions, rewrite title, add FAQ, update internal links"
 9,"K1 Fix Center","fix","k1 game black screen","/guides/black-screen-fix/","Publish or improve: K1 Game Black Screen Fix on Android"
 "2026-06-13","published","k1 game network error mobile data","/guides/network-error-mobile-data/","second content expansion","new long-tail page with FAQ, internal links, GA and sitemap entry"
+"2026-06-13","published","k1 game verification error fix","/guides/verification-error-fix/","third content expansion","new long-tail page with K1 public evidence, FAQ, schema and internal links"
