@@ -16,3 +16,5 @@ hub,"App Crash","/app-crash/","hub",1
 hub,"Login Error","/login-error/","hub",2
 hub,"OTP Problem","/otp-problem/","hub",3
 hub,"Network Fix","/network-fix/","hub",4
+"error","k1 game verification code invalid","/guides/verification-code-invalid/","error",1
+"error","k1 game app keeps loading","/guides/app-keeps-loading/","error",1
