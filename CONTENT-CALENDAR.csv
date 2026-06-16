@@ -25,3 +25,5 @@ week,site,content_type,target_keyword,url,action
 2026-06-16,k1bonuspk.com,K1 Fix Center,"k1 game app freezes after login",/guides/app-freezes-after-login/,sixth scale cluster
 2026-06-16,k1bonuspk.com,K1 Fix Center,"k1 game register form error",/guides/register-form-error/,sixth scale cluster
 2026-06-17,k1bonuspk.com,K1 Fix Center,"k1 game app not opening after update",/guides/app-not-opening-after-update/,next content sprint
+7,"K1 Fix Center","error","k1 game verification code invalid","/guides/verification-code-invalid/","Publish or improve: K1 Game Verification Code Invalid: OTP Error Fix"
+7,"K1 Fix Center","error","k1 game app keeps loading","/guides/app-keeps-loading/","Publish or improve: K1 Game App Keeps Loading: Mobile Fix Checklist"
