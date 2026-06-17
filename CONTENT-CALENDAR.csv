@@ -27,3 +27,4 @@ week,site,content_type,target_keyword,url,action
 2026-06-17,k1bonuspk.com,K1 Fix Center,"k1 game app not opening after update",/guides/app-not-opening-after-update/,next content sprint
 7,"K1 Fix Center","error","k1 game verification code invalid","/guides/verification-code-invalid/","Publish or improve: K1 Game Verification Code Invalid: OTP Error Fix"
 7,"K1 Fix Center","error","k1 game app keeps loading","/guides/app-keeps-loading/","Publish or improve: K1 Game App Keeps Loading: Mobile Fix Checklist"
+8,"K1 Fix Center","error hub","k1 game mobile error fix","/guides/mobile-error-fix-center/","Publish or improve: K1 Game Mobile Error Fix Center"
