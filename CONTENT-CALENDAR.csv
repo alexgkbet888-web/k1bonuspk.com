@@ -1,4 +1,4 @@
-week,site,content_type,target_keyword,url,action
+﻿week,site,content_type,target_keyword,url,action
 1,"K1 Fix Center","fix","k1 game app crash","/guides/app-crash-fix/","Publish or improve: K1 Game App Crash Fix"
 1,"K1 Fix Center","fix","k1 game not opening","/guides/not-opening/","Publish or improve: K1 Game Not Opening: Fix Path"
 1,"K1 Fix Center","fix","k1 game login error","/guides/login-error-fix/","Publish or improve: K1 Game Login Error Fix"
@@ -29,3 +29,8 @@ week,site,content_type,target_keyword,url,action
 7,"K1 Fix Center","error","k1 game app keeps loading","/guides/app-keeps-loading/","Publish or improve: K1 Game App Keeps Loading: Mobile Fix Checklist"
 8,"K1 Fix Center","error hub","k1 game mobile error fix","/guides/mobile-error-fix-center/","Publish or improve: K1 Game Mobile Error Fix Center"
 2026-06-18,k1bonuspk.com,K1 Fix Center,"k1 game update installed but asks update again",/guides/update-installed-but-asks-again/,next content sprint
+"2026-06-18","published","k1 game permission denied after install","/guides/permission-denied-after-install/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+"2026-06-19","published","k1 game app closes after granting permission","/guides/app-closes-after-permission/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+
+"2026-06-20","planned","k1 game permission granted but app crashes","/guides/permission-granted-but-app-crashes/","next content sprint","Publish or improve: K1 Game Permission Granted but App Crashes"
+"2026-06-21","planned","k1 game permission popup every time app opens","/guides/permission-popup-every-time/","next content sprint","Publish or improve: K1 Game Permission Popup Every Time App Opens"
