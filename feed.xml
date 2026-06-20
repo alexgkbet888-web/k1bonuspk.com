@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Fix Center Feed</title>
     <link>http://k1bonuspk.com/</link>
     <description>Recent guide updates for K1 Fix Center.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game App Closes After Granting Permission: Android Fix Path</title>
+      <link>http://k1bonuspk.com/guides/app-closes-after-permission/</link>
+      <guid>http://k1bonuspk.com/guides/app-closes-after-permission/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Troubleshooting page for K1 Game users who grant Android permission but then see the app close, freeze, or return to the launcher.</description>
+    </item>
+    <item>
+      <title>K1 Game Permission Denied After Install: Android Troubleshooting Steps</title>
+      <link>http://k1bonuspk.com/guides/permission-denied-after-install/</link>
+      <guid>http://k1bonuspk.com/guides/permission-denied-after-install/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Troubleshooting page for users who installed K1 Game but then hit a permission denied warning when opening, logging in or granting app access.</description>
+    </item>
     <item>
       <title>K1 Game Update Installed but Asks Again: Fix Checklist</title>
       <link>http://k1bonuspk.com/guides/update-installed-but-asks-again/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
