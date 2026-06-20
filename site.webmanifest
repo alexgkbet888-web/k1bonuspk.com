@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Fix Center",
+    "short_name":  "K1 Fix Center",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game troubleshooting center for Pakistan users fixing login errors, network issues, app crashes, OTP problems, wallet failures and support evidence.",
+    "icons":  [
+
+              ]
+}
