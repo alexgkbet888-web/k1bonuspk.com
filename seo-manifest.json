@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1bonuspk.com",
+  "brand": "K1 Bonus PK",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1bonuspk.com/",
+  "siteType": "authority",
+  "positioning": "K1 troubleshooting, app crash, not opening and login-error fix center",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 game not working",
+    "K1 game app crash",
+    "K1 game not opening"
+  ],
+  "secondaryKeywords": [
+    "K1 login error",
+    "K1 OTP problem",
+    "K1 support evidence",
+    "K1 app fix Pakistan"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1bonuspk.com/sitemap.xml",
+    "robotsUrl": "https://k1bonuspk.com/robots.txt",
+    "feedUrl": "https://k1bonuspk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1bonuspk.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
